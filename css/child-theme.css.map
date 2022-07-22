@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/sass/scss/_footer.scss","child-theme.css"],"names":[],"mappings":"AAAA;EAAM,uBAAA;ACEN","file":"child-theme.css","sourcesContent":["body {background-color: green;}","body {\n  background-color: green;\n}\n\n/*# sourceMappingURL=child-theme.css.map */\n"]}
